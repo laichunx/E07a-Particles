@@ -1,4 +1,8 @@
 # E07a-Particles
+# Description
+# In this assignment we praticed how paticals work in the python arcade.
+# We learned how to build a particle, changing the shape, time, 
+# movement etc. Also, we learned how to use the open color.
 Playing with particles and emitters
 
 This is an opportunity for you to play with some particles. As you hold down the mouse button, particles are generated and appended to self.particle_list. You will have the opportunity to play with the parameters for generating the particles to explore different effects.
